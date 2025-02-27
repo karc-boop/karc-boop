@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Karmen @karc-boop
-- 👀 I’m interested in back-end development, cloud services and GenAI application.
-- 🌱 I’m currently learning Go and Google Cloud :-)
 - 📫 How to reach me: karmencai.nu@gmail.com
 - 😄 Pronouns: she/her/they
 
